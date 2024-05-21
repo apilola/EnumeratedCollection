@@ -15,9 +15,9 @@ enum ShapeType
 
 static readonly float[] AreaCoefficientTable = 
 {
-    1,
-    0.5,
-    1.57079632679 // Pi divided by 2
+    1, //Square
+    0.5, //Triangle
+    1.57079632679 // Elipse (Pi divided by 2)
 };
 
 float static CalculateArea(ShapeType shapeType, float width, float height)
