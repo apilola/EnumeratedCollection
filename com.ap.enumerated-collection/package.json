@@ -1,0 +1,17 @@
+{
+  "name": "com.ap.enumerated-collections",
+  "displayName": "Enumerated Collection",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "Populate Me",
+  "keywords": [
+    "collections"
+  ],
+  "dependencies": {
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.testtools.codecoverage.git",
+    "type": "git",
+    "revision": "afeb9febf6597fcc31c99ca116d6a82b1e97b9f5"
+  }
+}

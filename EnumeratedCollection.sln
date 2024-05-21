@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumeratedCollection", "EnumeratedCollection\EnumeratedCollection.csproj", "{3303BC14-1CA3-44EF-925A-B6BFF43AF130}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumeratedCollection", "com.ap.enumerated-collection\Runtime\EnumeratedCollection\EnumeratedCollection.csproj", "{3303BC14-1CA3-44EF-925A-B6BFF43AF130}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumeratedCollection_Tests", "EnumeratedCollection_Tests\EnumeratedCollection_Tests.csproj", "{809D4DB0-E876-4B67-A6BE-B3ADFD0416AA}"
 EndProject

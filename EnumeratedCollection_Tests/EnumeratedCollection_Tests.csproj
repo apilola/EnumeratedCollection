@@ -19,7 +19,7 @@
 
   <ItemGroup>
     <Using Include="NUnit.Framework" />
-	<ProjectReference Include="..\EnumeratedCollection\EnumeratedCollection.csproj" />
+	<ProjectReference Include="..\com.ap.enumerated-collection\Runtime\EnumeratedCollection\EnumeratedCollection.csproj" />
   </ItemGroup>
 
 </Project>
