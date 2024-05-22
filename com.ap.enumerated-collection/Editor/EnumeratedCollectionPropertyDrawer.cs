@@ -2,7 +2,6 @@ using UnityEngine;
 using UnityEditor;
 using System;
 using UnityEditorInternal;
-using UnityEngine.UIElements;
 
 namespace AP.Collections.Editor
 {
@@ -56,7 +55,6 @@ namespace AP.Collections.Editor
             {
                 var enumType = fieldInfo.FieldType.GetGenericArguments()[0];
                 var enumValues = Enum.GetValues(enumType);
-
                 // Resize array if necessary
                 if (valuesProperty.arraySize != enumValues.Length)
                 {
